@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tfjs-yolov5-example/static/css/main.d27a3ff8.chunk.css",
+    "main.js": "/tfjs-yolov5-example/static/js/main.ed5e5fa3.chunk.js",
+    "main.js.map": "/tfjs-yolov5-example/static/js/main.ed5e5fa3.chunk.js.map",
+    "runtime-main.js": "/tfjs-yolov5-example/static/js/runtime-main.4ee25975.js",
+    "runtime-main.js.map": "/tfjs-yolov5-example/static/js/runtime-main.4ee25975.js.map",
+    "static/js/2.3f664eba.chunk.js": "/tfjs-yolov5-example/static/js/2.3f664eba.chunk.js",
+    "static/js/2.3f664eba.chunk.js.map": "/tfjs-yolov5-example/static/js/2.3f664eba.chunk.js.map",
+    "index.html": "/tfjs-yolov5-example/index.html",
+    "static/css/main.d27a3ff8.chunk.css.map": "/tfjs-yolov5-example/static/css/main.d27a3ff8.chunk.css.map",
+    "static/js/2.3f664eba.chunk.js.LICENSE.txt": "/tfjs-yolov5-example/static/js/2.3f664eba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee25975.js",
+    "static/js/2.3f664eba.chunk.js",
+    "static/css/main.d27a3ff8.chunk.css",
+    "static/js/main.ed5e5fa3.chunk.js"
+  ]
+}
