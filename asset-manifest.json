@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tfjs-yolov5-example/static/css/main.d13445b9.chunk.css",
+    "main.js": "/tfjs-yolov5-example/static/js/main.1f6484de.chunk.js",
+    "main.js.map": "/tfjs-yolov5-example/static/js/main.1f6484de.chunk.js.map",
+    "runtime-main.js": "/tfjs-yolov5-example/static/js/runtime-main.883a1cbe.js",
+    "runtime-main.js.map": "/tfjs-yolov5-example/static/js/runtime-main.883a1cbe.js.map",
+    "static/js/2.e7476062.chunk.js": "/tfjs-yolov5-example/static/js/2.e7476062.chunk.js",
+    "static/js/2.e7476062.chunk.js.map": "/tfjs-yolov5-example/static/js/2.e7476062.chunk.js.map",
+    "index.html": "/tfjs-yolov5-example/index.html",
+    "precache-manifest.c099e6362818ba92a2db82016f25fb09.js": "/tfjs-yolov5-example/precache-manifest.c099e6362818ba92a2db82016f25fb09.js",
+    "service-worker.js": "/tfjs-yolov5-example/service-worker.js",
+    "static/css/main.d13445b9.chunk.css.map": "/tfjs-yolov5-example/static/css/main.d13445b9.chunk.css.map",
+    "static/js/2.e7476062.chunk.js.LICENSE.txt": "/tfjs-yolov5-example/static/js/2.e7476062.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.883a1cbe.js",
+    "static/js/2.e7476062.chunk.js",
+    "static/css/main.d13445b9.chunk.css",
+    "static/js/main.1f6484de.chunk.js"
+  ]
+}
